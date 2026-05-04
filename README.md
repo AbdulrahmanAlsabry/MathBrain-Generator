@@ -32,6 +32,11 @@ This project serves as a demonstration of robust C++ programming techniques:
 *   A standard C++ compiler (GCC/G++, Clang, or MSVC).
 *   Console/Terminal environment.
 
+
+Distributed under the MIT License. See LICENSE for more information.
+
+Created by [Abdulrahman Faisal] - Feel free to connect!
+
 ## 🔧 Installation
 ```bash
 # Clone the repository
@@ -42,10 +47,3 @@ g++ -o MathQuiz main.cpp
 
 # Run the application
 ./MathQuiz
-
-
-
-
-Distributed under the MIT License. See LICENSE for more information.
-
-Created by [Abdulrahman Faisal] - Feel free to connect!
